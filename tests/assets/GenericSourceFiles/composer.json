@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "my-custom-scripts": [
+      "Vendor\\Package\\Class::method"
+    ]
+  }
+}
